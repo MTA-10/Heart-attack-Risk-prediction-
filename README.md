@@ -1,1 +1,1 @@
-# Heart-attack-prediction-
+# Heart-attack-risk-prediction-
